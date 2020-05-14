@@ -42,4 +42,4 @@ plt.axis([0, 6.3, -1, 1])
 
 # Save our plot to the local disk drive
 filename = 'graph.png'
-plt.savefig(filename)
+plt.savefig(filename) 
