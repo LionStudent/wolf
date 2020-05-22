@@ -1,1 +1,5 @@
-matplotlib 
+matplotlib
+
+flask
+
+mysql-connector
